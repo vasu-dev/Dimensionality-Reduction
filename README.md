@@ -1,3 +1,5 @@
+
+
 ## Dimensionality Reduction
 
 A comparison b/w autoencoders and pca for dimensionality reduction.
@@ -27,4 +29,15 @@ Used mnist/train.csv : Training on first 30,000 datapoints,
                     
                     b) Autoencoders : Training Accuracy : 55%
                                       Validation Accuracy : 65%
+                                      
+                                      
+### HOW TO RUN 
+    
+    1) PCA : run the pca_classification notebook
+    
+    2) Autoencoder : a) run the auto_encoder notebook
+                     b) now run the auto_encoder_classification notebook
+                     
+                     
+PS : Will add the t-SNE code soon                     
   
